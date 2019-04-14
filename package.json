@@ -1,0 +1,25 @@
+{
+  "name": "reader",
+  "version": "1.0.0",
+  "description": "Minimalist local reader",
+  "main": "reader.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bakuzan/reader.git"
+  },
+  "keywords": [
+    "minimalist",
+    "manga",
+    "comic",
+    "reader"
+  ],
+  "author": "Bakuzan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bakuzan/reader/issues"
+  },
+  "homepage": "https://github.com/bakuzan/reader#readme"
+}
